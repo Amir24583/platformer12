@@ -3,6 +3,7 @@ from pygame.locals import *
 import random 
 import sys
 
+
 pygame.init()
 vec = pygame.math.Vector2 
 
